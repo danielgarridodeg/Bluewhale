@@ -1,0 +1,33 @@
+header {
+    text-align: center;
+    background: #AFAFAF;
+    color: #fff;
+}
+
+.carousel {
+    position: relative;
+    margin-top: 100px;
+    height: 500px;
+}
+
+.carousel .item {
+    height: 500px;
+}
+
+.carousel-caption
+{
+	bottom: 10%;
+	width: 500px;
+	margin: auto;
+}
+
+.servicios-icon
+{
+    margin: auto;
+}
+
+.caption p
+{
+    font-weight: bolder;
+    font-size: 24px;
+}
